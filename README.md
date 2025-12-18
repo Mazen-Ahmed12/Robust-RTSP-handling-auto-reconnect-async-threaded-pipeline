@@ -30,7 +30,7 @@ Perfect for lightweight deployments and edge-based surveillance.
 
 3. then run the app
    ```bash
-   python main.py
+   python app.py
 
 ## note 
   - dont forget to change the directories of the model and any other directory in the project
